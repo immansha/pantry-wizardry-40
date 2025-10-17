@@ -1,0 +1,321 @@
+[
+  {
+    "id": "1",
+    "title": "Creamy Garlic Pasta",
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "cookTime": 20,
+    "servings": 4,
+    "calories": 420,
+    "protein": 12,
+    "carbs": 58,
+    "fats": 16,
+    "dietary": ["vegetarian"],
+    "ingredients": [
+      { "name": "pasta", "quantity": 400, "unit": "g" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves" },
+      { "name": "heavy cream", "quantity": 200, "unit": "ml" },
+      { "name": "parmesan", "quantity": 50, "unit": "g" },
+      { "name": "butter", "quantity": 30, "unit": "g" },
+      { "name": "olive oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" },
+      { "name": "black pepper", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Cook pasta in salted boiling water until al dente",
+      "While pasta cooks, mince garlic and sauté in butter and olive oil",
+      "Add heavy cream and simmer for 3-4 minutes",
+      "Drain pasta, reserving 1 cup pasta water",
+      "Toss pasta with cream sauce, adding pasta water if needed",
+      "Stir in parmesan, season with salt and pepper",
+      "Serve immediately with extra parmesan"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Classic Margherita Pizza",
+    "cuisine": "Italian",
+    "difficulty": "medium",
+    "cookTime": 30,
+    "servings": 2,
+    "calories": 520,
+    "protein": 18,
+    "carbs": 68,
+    "fats": 20,
+    "dietary": ["vegetarian"],
+    "ingredients": [
+      { "name": "pizza dough", "quantity": 1, "unit": "ball" },
+      { "name": "tomato sauce", "quantity": 150, "unit": "ml" },
+      { "name": "mozzarella", "quantity": 200, "unit": "g" },
+      { "name": "fresh basil", "quantity": 10, "unit": "leaves" },
+      { "name": "olive oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Preheat oven to 250°C (480°F)",
+      "Roll out pizza dough to desired thickness",
+      "Spread tomato sauce evenly over dough",
+      "Tear mozzarella and distribute on top",
+      "Drizzle with olive oil and sprinkle salt",
+      "Bake for 12-15 minutes until crust is golden",
+      "Top with fresh basil leaves before serving"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Chicken Stir-Fry",
+    "cuisine": "Asian",
+    "difficulty": "easy",
+    "cookTime": 25,
+    "servings": 4,
+    "calories": 380,
+    "protein": 32,
+    "carbs": 28,
+    "fats": 14,
+    "dietary": [],
+    "ingredients": [
+      { "name": "chicken breast", "quantity": 500, "unit": "g" },
+      { "name": "bell peppers", "quantity": 2, "unit": "pcs" },
+      { "name": "broccoli", "quantity": 200, "unit": "g" },
+      { "name": "soy sauce", "quantity": 3, "unit": "tbsp" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "ginger", "quantity": 1, "unit": "tbsp" },
+      { "name": "sesame oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "rice", "quantity": 300, "unit": "g" }
+    ],
+    "steps": [
+      "Cut chicken into bite-sized pieces",
+      "Chop vegetables into uniform pieces",
+      "Heat sesame oil in wok over high heat",
+      "Stir-fry chicken until cooked through, set aside",
+      "Stir-fry vegetables until tender-crisp",
+      "Add garlic and ginger, cook for 30 seconds",
+      "Return chicken to wok, add soy sauce",
+      "Toss everything together and serve over rice"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Mediterranean Quinoa Salad",
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 310,
+    "protein": 10,
+    "carbs": 42,
+    "fats": 12,
+    "dietary": ["vegan", "gluten-free"],
+    "ingredients": [
+      { "name": "quinoa", "quantity": 200, "unit": "g" },
+      { "name": "cucumber", "quantity": 1, "unit": "pcs" },
+      { "name": "cherry tomatoes", "quantity": 200, "unit": "g" },
+      { "name": "red onion", "quantity": 1, "unit": "pcs" },
+      { "name": "olives", "quantity": 100, "unit": "g" },
+      { "name": "lemon juice", "quantity": 3, "unit": "tbsp" },
+      { "name": "olive oil", "quantity": 3, "unit": "tbsp" },
+      { "name": "fresh parsley", "quantity": 30, "unit": "g" }
+    ],
+    "steps": [
+      "Cook quinoa according to package directions, let cool",
+      "Dice cucumber, halve cherry tomatoes, slice onion thinly",
+      "Chop parsley and combine with quinoa and vegetables",
+      "Add olives to the mix",
+      "Whisk together lemon juice and olive oil",
+      "Pour dressing over salad and toss well",
+      "Chill for 15 minutes before serving"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Beef Tacos",
+    "cuisine": "Mexican",
+    "difficulty": "easy",
+    "cookTime": 20,
+    "servings": 4,
+    "calories": 450,
+    "protein": 28,
+    "carbs": 38,
+    "fats": 20,
+    "dietary": [],
+    "ingredients": [
+      { "name": "ground beef", "quantity": 500, "unit": "g" },
+      { "name": "taco shells", "quantity": 12, "unit": "pcs" },
+      { "name": "lettuce", "quantity": 1, "unit": "head" },
+      { "name": "tomatoes", "quantity": 2, "unit": "pcs" },
+      { "name": "cheddar cheese", "quantity": 150, "unit": "g" },
+      { "name": "sour cream", "quantity": 100, "unit": "ml" },
+      { "name": "taco seasoning", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Brown ground beef in a skillet over medium-high heat",
+      "Drain excess fat, add taco seasoning and water",
+      "Simmer for 5 minutes until thickened",
+      "Shred lettuce, dice tomatoes, grate cheese",
+      "Warm taco shells according to package",
+      "Fill shells with beef and toppings",
+      "Serve with sour cream"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Vegetable Curry",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "cookTime": 35,
+    "servings": 6,
+    "calories": 280,
+    "protein": 8,
+    "carbs": 45,
+    "fats": 10,
+    "dietary": ["vegan", "gluten-free"],
+    "ingredients": [
+      { "name": "potatoes", "quantity": 3, "unit": "pcs" },
+      { "name": "cauliflower", "quantity": 300, "unit": "g" },
+      { "name": "peas", "quantity": 200, "unit": "g" },
+      { "name": "onion", "quantity": 2, "unit": "pcs" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves" },
+      { "name": "ginger", "quantity": 2, "unit": "tbsp" },
+      { "name": "curry powder", "quantity": 3, "unit": "tbsp" },
+      { "name": "coconut milk", "quantity": 400, "unit": "ml" },
+      { "name": "tomatoes", "quantity": 2, "unit": "pcs" }
+    ],
+    "steps": [
+      "Dice potatoes, chop cauliflower into florets",
+      "Sauté onions, garlic, and ginger until fragrant",
+      "Add curry powder and cook for 1 minute",
+      "Add potatoes, cauliflower, and diced tomatoes",
+      "Pour in coconut milk and bring to simmer",
+      "Cook covered for 20 minutes until vegetables are tender",
+      "Add peas in last 5 minutes",
+      "Serve with rice or naan"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Greek Salad",
+    "cuisine": "Greek",
+    "difficulty": "easy",
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 220,
+    "protein": 8,
+    "carbs": 12,
+    "fats": 16,
+    "dietary": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "cucumber", "quantity": 1, "unit": "pcs" },
+      { "name": "tomatoes", "quantity": 3, "unit": "pcs" },
+      { "name": "red onion", "quantity": 1, "unit": "pcs" },
+      { "name": "feta cheese", "quantity": 150, "unit": "g" },
+      { "name": "olives", "quantity": 100, "unit": "g" },
+      { "name": "olive oil", "quantity": 4, "unit": "tbsp" },
+      { "name": "lemon juice", "quantity": 2, "unit": "tbsp" },
+      { "name": "oregano", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Chop cucumber and tomatoes into chunks",
+      "Slice red onion thinly",
+      "Crumble feta cheese",
+      "Combine vegetables, feta, and olives in bowl",
+      "Whisk together olive oil, lemon juice, and oregano",
+      "Pour dressing over salad",
+      "Toss gently and serve immediately"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Pad Thai",
+    "cuisine": "Thai",
+    "difficulty": "medium",
+    "cookTime": 25,
+    "servings": 4,
+    "calories": 480,
+    "protein": 22,
+    "carbs": 62,
+    "fats": 16,
+    "dietary": [],
+    "ingredients": [
+      { "name": "rice noodles", "quantity": 400, "unit": "g" },
+      { "name": "shrimp", "quantity": 300, "unit": "g" },
+      { "name": "eggs", "quantity": 2, "unit": "pcs" },
+      { "name": "bean sprouts", "quantity": 150, "unit": "g" },
+      { "name": "peanuts", "quantity": 50, "unit": "g" },
+      { "name": "fish sauce", "quantity": 3, "unit": "tbsp" },
+      { "name": "tamarind paste", "quantity": 2, "unit": "tbsp" },
+      { "name": "lime", "quantity": 2, "unit": "pcs" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" }
+    ],
+    "steps": [
+      "Soak rice noodles in warm water for 30 minutes",
+      "Heat oil in wok, scramble eggs and set aside",
+      "Stir-fry garlic and shrimp until pink",
+      "Drain noodles and add to wok",
+      "Mix fish sauce and tamarind paste, add to wok",
+      "Toss everything together over high heat",
+      "Add bean sprouts and eggs",
+      "Serve with crushed peanuts and lime wedges"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Caprese Salad",
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 280,
+    "protein": 14,
+    "carbs": 8,
+    "fats": 22,
+    "dietary": ["vegetarian", "gluten-free"],
+    "ingredients": [
+      { "name": "tomatoes", "quantity": 4, "unit": "pcs" },
+      { "name": "mozzarella", "quantity": 300, "unit": "g" },
+      { "name": "fresh basil", "quantity": 20, "unit": "leaves" },
+      { "name": "olive oil", "quantity": 4, "unit": "tbsp" },
+      { "name": "balsamic vinegar", "quantity": 2, "unit": "tbsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" },
+      { "name": "black pepper", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Slice tomatoes and mozzarella into 1/4 inch rounds",
+      "Arrange alternating slices on platter",
+      "Tuck basil leaves between slices",
+      "Drizzle with olive oil and balsamic vinegar",
+      "Season with salt and pepper",
+      "Let sit for 10 minutes before serving"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Chicken Caesar Salad",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "cookTime": 20,
+    "servings": 4,
+    "calories": 420,
+    "protein": 35,
+    "carbs": 18,
+    "fats": 24,
+    "dietary": [],
+    "ingredients": [
+      { "name": "chicken breast", "quantity": 500, "unit": "g" },
+      { "name": "romaine lettuce", "quantity": 2, "unit": "heads" },
+      { "name": "parmesan", "quantity": 80, "unit": "g" },
+      { "name": "croutons", "quantity": 100, "unit": "g" },
+      { "name": "caesar dressing", "quantity": 150, "unit": "ml" },
+      { "name": "lemon juice", "quantity": 1, "unit": "tbsp" },
+      { "name": "olive oil", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Season chicken with salt and pepper",
+      "Grill or pan-fry chicken until cooked through",
+      "Let chicken rest, then slice into strips",
+      "Chop romaine lettuce into bite-sized pieces",
+      "Toss lettuce with caesar dressing",
+      "Top with sliced chicken, croutons, and shaved parmesan",
+      "Drizzle with lemon juice and serve"
+    ]
+  }
+]
