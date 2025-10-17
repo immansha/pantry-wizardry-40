@@ -1,4 +1,0 @@
-project_id = "xrhpomkxfpyjoszfkiin"
-
-[functions.detect-ingredients]
-verify_jwt = false
