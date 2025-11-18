@@ -3,7 +3,6 @@ Pantry wizardry(Smart Recipe Generator)
 
 **Your personal AI chef — transforming fridge ingredients into smart, healthy recipes!**
 
----
 
 ## 🌍 **Overview**
 
